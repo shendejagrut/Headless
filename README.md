@@ -2,4 +2,4 @@
 https://tryhackme.com/room/headless 
 This room is beginner friendly. 
 Enumeration is the key!
-refer to HEADLESS!.docx
+refer to HEADLESS!.pdf
